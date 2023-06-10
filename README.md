@@ -1,1 +1,1 @@
-# information-retrieval-milestone-2
+# Information Retrieval - Milestone 2
